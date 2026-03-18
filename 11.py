@@ -85,6 +85,4 @@ while terminate == 0:
         print(f'\nEl total de clientes atendidos en el dia fue de: {numClientes}')
         print(f'El total vendido en el dia fue de: {totalDelDia}')
         print(f'El producto mas vendido fue el {productoMasVendido} con {mayorVenta} ventas')
-        terminate = 1        
-
-        
+        terminate = 1 
