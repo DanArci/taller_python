@@ -17,6 +17,8 @@ from funciones import *
 import os
 
 os.system('clear')
+
+bienvenidoa('el Gimnasio RIWI!')
 personas = []
 persona = {
     'nombre' : '',
